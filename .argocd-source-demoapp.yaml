@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - yuksr/demo-app:v1.2
