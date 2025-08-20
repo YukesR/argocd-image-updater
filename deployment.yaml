@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demoapp
-        image: yuksr/demo-app:v1.2
+        image: yuksr/demo-app:v1.1
         ports:
         - containerPort: 80
